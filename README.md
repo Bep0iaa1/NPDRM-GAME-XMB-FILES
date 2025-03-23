@@ -7,3 +7,4 @@ My goal is simple: to provide custom XMB files for ps3 games (such as ICON0.PNG,
 - Need for Speed™ Hot Pursuit 2
 - LEGO® Batman™: The Videogame
 - LEGO® Star Wars II: The Original Trilogy
+- Need for Speed™ Most Wanted (PS2 Version)
